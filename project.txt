@@ -1,0 +1,5 @@
+name=ffv-jp
+rom_file=ffv-jp.sfc
+rom_sha256=c6858d5c02894a6cc71f4dd452c7f288b319d1952ca56fdb185b4bf5e26244a2
+normalized_size=2097152
+mapping=hirom
