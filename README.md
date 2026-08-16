@@ -1,4 +1,4 @@
-# ffv-jp recompilation project
+# FFV (J) SNES Recompilation Project
 
 Generated locally from your ROM by snesrecomp.
 
